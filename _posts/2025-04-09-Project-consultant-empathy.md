@@ -47,3 +47,4 @@ When you hand over the data, the consultant should be able to understand and ass
 An ideal situation is that the project brief is so clear, and the data is well-documented enough that the consultant doesn't have any questions before the analysis begins Even if that ideal is rarely met, it is always a worthwhile goal to aim for. At the very least, the questions that the consultant asks will advance their understanding of your project goals, and not be some trivial or basic question through underdocumentation.
 
 Good luck with your project. Understanding empathy, and the way that translates to how you collaborate with a consultant, will help everyone involved in the process.
+
