@@ -1,6 +1,11 @@
+---
+title: "Project consultant empathy"
+date: 2025-04-09
+---
+
 I want to talk about empathy. In this post I'll be talking specifically about empathy for the consultant on the part of the client.
 
-Broadly speaking, there are two types of statistical consultant. There are "talking consultants" - those that talk and discuss statistical problems with their clients, and there are "doing consultants" - those that primarily do an analysis for their clients. Of course "talking consultants" will often do some analysis and "doing consultants" will start by talking with their clients.
+Broadly speaking, there are two types of statistical consultant. There are "talking consultants" - those that talk and discuss statistical problems with their clients, and there are "doing consultants" (or "project consultants") - those that primarily do an analysis for their clients. Of course "talking consultants" will often do some analysis and "doing consultants" will start by talking with their clients.
 
 I'm going to focus on empathy for the "doing consultants" in this post.
 
